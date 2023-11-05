@@ -69,7 +69,7 @@ dependencies {
 
     // Logstash encoder for Logback
     implementation("net.logstash.logback:logstash-logback-encoder:7.1.1")
-    implementation("io.sentry:sentry-logback:5.7.3")
+    implementation("io.sentry:sentry-logback:5.7.4")
 }
 
 application {
