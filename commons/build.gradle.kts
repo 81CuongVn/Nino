@@ -62,7 +62,7 @@ dependencies {
     api("io.ktor:ktor-client-websockets")
     api("io.ktor:ktor-client-okhttp")
     api("io.ktor:ktor-client-core")
-    api("com.squareup.okhttp3:okhttp:4.9.3")
+    api("com.squareup.okhttp3:okhttp:4.12.0")
 
     // Kord
     api("dev.kord:kord-core:0.8.0-M13")
