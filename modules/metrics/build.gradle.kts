@@ -27,6 +27,6 @@ plugins {
 
 dependencies {
     implementation(project(":modules"))
-    api("io.prometheus:simpleclient_hotspot:0.15.0")
-    api("io.prometheus:simpleclient:0.15.0")
+    api("io.prometheus:simpleclient_hotspot:0.16.0")
+    api("io.prometheus:simpleclient:0.16.0")
 }
