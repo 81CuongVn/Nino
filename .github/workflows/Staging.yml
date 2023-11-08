@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checks out the repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Get the current git tag to use
         id: tag
