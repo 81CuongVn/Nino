@@ -20,7 +20,7 @@
 # SOFTWARE.
 
 # Create the builder stage, where the bot gets built.
-FROM eclipse-temurin:18-alpine AS builder
+FROM eclipse-temurin:21-alpine AS builder
 
 # Install git, which is required for retrieving the commit SHA
 RUN apk update && apk add git ca-certificates
@@ -38,7 +38,7 @@ RUN chmod +x gradlew
 RUN ./gradlew :bot:installDist --stacktrace --no-daemon
 
 # The runtime image, where the API can be executed.
-FROM eclipse-temurin:18-alpine
+FROM eclipse-temurin:21-alpine
 
 # Install bash, which is required to execute Docker scripts.
 # This also installs tini, the valid "init" for containers.
