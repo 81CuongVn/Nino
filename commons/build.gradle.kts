@@ -83,7 +83,7 @@ dependencies {
     api("org.slf4j:slf4j-api:1.7.36")
 
     // Sentry
-    api("io.sentry:sentry-kotlin-extensions:5.7.3")
+    api("io.sentry:sentry-kotlin-extensions:6.33.1")
     api("io.sentry:sentry:6.33.1")
 
     // Conditional logic for logback
