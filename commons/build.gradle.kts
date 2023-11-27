@@ -87,7 +87,7 @@ dependencies {
     api("io.sentry:sentry:6.34.0")
 
     // Conditional logic for logback
-    api("org.codehaus.janino:janino:3.1.10")
+    api("org.codehaus.janino:janino:3.1.11")
 
     // Redis (Lettuce)
     api("io.lettuce:lettuce-core:6.3.0.RELEASE")
