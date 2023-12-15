@@ -27,6 +27,6 @@ plugins {
 
 dependencies {
     implementation(project(":core"))
-    api("net.perfectdreams.exposedpowerutils:postgres-power-utils:1.3.0")
+    api("net.perfectdreams.exposedpowerutils:postgres-power-utils:1.4.0")
     api("org.jetbrains.exposed:exposed-kotlin-datetime")
 }
