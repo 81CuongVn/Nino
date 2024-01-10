@@ -90,5 +90,5 @@ dependencies {
     api("org.codehaus.janino:janino:3.1.11")
 
     // Redis (Lettuce)
-    api("io.lettuce:lettuce-core:6.3.0.RELEASE")
+    api("io.lettuce:lettuce-core:6.3.1.RELEASE")
 }
