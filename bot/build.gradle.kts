@@ -62,7 +62,7 @@ dependencies {
 
     // Logging
     implementation("ch.qos.logback:logback-classic:1.5.0")
-    implementation("ch.qos.logback:logback-core:1.4.14")
+    implementation("ch.qos.logback:logback-core:1.5.0")
 
     // YAML (configuration)
     implementation("com.charleskorn.kaml:kaml:0.57.0")
