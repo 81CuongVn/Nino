@@ -74,7 +74,7 @@ dependencies {
     api("org.jetbrains.exposed:exposed-dao")
 
     // PostgreSQL driver
-    api("org.postgresql:postgresql:42.7.1")
+    api("org.postgresql:postgresql:42.7.2")
 
     // Connection pooling
     api("com.zaxxer:HikariCP:5.1.0")
