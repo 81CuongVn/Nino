@@ -28,5 +28,5 @@ plugins {
 dependencies {
     runtimeOnly(kotlin("scripting-jsr223"))
     implementation(project(":modules"))
-    implementation("org.jruby:jruby:9.4.7.0")
+    implementation("org.jruby:jruby:9.4.8.0")
 }
