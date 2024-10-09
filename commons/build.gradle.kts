@@ -33,7 +33,7 @@ dependencies {
     api(platform("org.jetbrains.kotlinx:kotlinx-serialization-bom:1.7.3"))
     api(platform("org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.9.0"))
     api(platform("org.jetbrains.exposed:exposed-bom:0.55.0"))
-    api(platform("io.ktor:ktor-bom:2.3.12"))
+    api(platform("io.ktor:ktor-bom:3.0.0"))
 
     // kotlinx.coroutines
     api("org.jetbrains.kotlinx:kotlinx-coroutines-core")
