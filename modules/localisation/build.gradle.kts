@@ -26,6 +26,6 @@ plugins {
 }
 
 dependencies {
-    implementation("com.charleskorn.kaml:kaml:0.65.0")
+    implementation("com.charleskorn.kaml:kaml:0.66.0")
     implementation(project(":modules"))
 }
