@@ -40,6 +40,6 @@ dependencies {
     implementation("io.kotest:kotest-gradle-plugin:0.4.11")
     implementation("gay.floof.utils:gradle-utils:1.3.0")
     implementation(kotlin("gradle-plugin", version = "2.1.0"))
-    implementation(kotlin("serialization", version = "2.1.0"))
+    implementation(kotlin("serialization", version = "2.1.10"))
     implementation(gradleApi())
 }
