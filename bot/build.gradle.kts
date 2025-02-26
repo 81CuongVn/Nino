@@ -61,8 +61,8 @@ dependencies {
     implementation(project(":modules:ravy"))
 
     // Logging
-    implementation("ch.qos.logback:logback-classic:1.5.16")
-    implementation("ch.qos.logback:logback-core:1.5.16")
+    implementation("ch.qos.logback:logback-classic:1.5.17")
+    implementation("ch.qos.logback:logback-core:1.5.17")
 
     // YAML (configuration)
     implementation("com.charleskorn.kaml:kaml:0.72.0")
