@@ -65,7 +65,7 @@ dependencies {
     implementation("ch.qos.logback:logback-core:1.5.18")
 
     // YAML (configuration)
-    implementation("com.charleskorn.kaml:kaml:0.77.1")
+    implementation("com.charleskorn.kaml:kaml:0.78.0")
 
     // Logstash encoder for Logback
     implementation("net.logstash.logback:logstash-logback-encoder:8.1")
