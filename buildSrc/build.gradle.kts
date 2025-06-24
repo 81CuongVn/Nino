@@ -39,7 +39,7 @@ dependencies {
     implementation("com.diffplug.spotless:spotless-plugin-gradle:7.0.4")
     implementation("io.kotest:kotest-gradle-plugin:0.4.11")
     implementation("gay.floof.utils:gradle-utils:1.3.0")
-    implementation(kotlin("gradle-plugin", version = "2.1.21"))
-    implementation(kotlin("serialization", version = "2.1.21"))
+    implementation(kotlin("gradle-plugin", version = "2.2.0"))
+    implementation(kotlin("serialization", version = "2.2.0"))
     implementation(gradleApi())
 }
