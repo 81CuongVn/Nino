@@ -84,7 +84,7 @@ dependencies {
 
     // Sentry
     api("io.sentry:sentry-kotlin-extensions:8.20.0")
-    api("io.sentry:sentry:8.20.0")
+    api("io.sentry:sentry:8.21.0")
 
     // Conditional logic for logback
     api("org.codehaus.janino:janino:3.1.12")
