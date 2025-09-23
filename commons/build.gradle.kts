@@ -65,7 +65,7 @@ dependencies {
     api("com.squareup.okhttp3:okhttp:5.1.0")
 
     // Kord
-    api("dev.kord:kord-core:0.15.0")
+    api("dev.kord:kord-core:0.17.0")
     api("dev.kord.x:emoji:0.5.0")
 
     // Database (PostgreSQL)
