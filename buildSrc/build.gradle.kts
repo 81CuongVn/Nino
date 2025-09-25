@@ -36,7 +36,7 @@ repositories {
 
 dependencies {
     implementation("org.jetbrains.kotlinx:atomicfu-gradle-plugin:0.29.0")
-    implementation("com.diffplug.spotless:spotless-plugin-gradle:7.2.1")
+    implementation("com.diffplug.spotless:spotless-plugin-gradle:8.0.0")
     implementation("io.kotest:kotest-gradle-plugin:0.4.11")
     implementation("gay.floof.utils:gradle-utils:1.3.0")
     implementation(kotlin("gradle-plugin", version = "2.2.20"))
