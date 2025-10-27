@@ -68,7 +68,7 @@ dependencies {
     implementation("com.charleskorn.kaml:kaml:0.102.0")
 
     // Logstash encoder for Logback
-    implementation("net.logstash.logback:logstash-logback-encoder:8.1")
+    implementation("net.logstash.logback:logstash-logback-encoder:9.0")
     implementation("io.sentry:sentry-logback:8.24.0")
 }
 
