@@ -47,7 +47,7 @@ repositories {
 
 dependencies {
     // Testing utilities
-    testImplementation(platform("io.kotest:kotest-bom:6.0.5"))
+    testImplementation(platform("io.kotest:kotest-bom:6.0.7"))
     testImplementation("io.kotest:kotest-runner-junit5")
     testImplementation("io.kotest:kotest-assertions-core")
     testImplementation("io.kotest:kotest-property")
