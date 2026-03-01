@@ -41,7 +41,7 @@ dependencies {
     implementation("io.ktor:ktor-server-cors")
 
     // JWT (for authentication)
-    implementation("com.auth0:java-jwt:4.5.0")
+    implementation("com.auth0:java-jwt:4.5.1")
 
     // Nino projects
     implementation(project(":core"))
