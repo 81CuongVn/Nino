@@ -30,7 +30,7 @@ dependencies {
     api(kotlin("reflect"))
 
     // BOMs
-    api(platform("org.jetbrains.kotlinx:kotlinx-serialization-bom:1.10.0"))
+    api(platform("org.jetbrains.kotlinx:kotlinx-serialization-bom:1.11.0"))
     api(platform("org.jetbrains.kotlinx:kotlinx-coroutines-bom:1.10.2"))
     api(platform("org.jetbrains.exposed:exposed-bom:1.2.0"))
     api(platform("io.ktor:ktor-bom:3.4.2"))
