@@ -45,7 +45,7 @@ dependencies {
     api("org.jetbrains.kotlinx:kotlinx-serialization-core")
 
     // kotlinx.datetime
-    api("org.jetbrains.kotlinx:kotlinx-datetime:0.7.1-0.6.x-compat")
+    api("org.jetbrains.kotlinx:kotlinx-datetime:0.8.0-0.6.x-compat")
 
     // Noel's Utilities
     api("gay.floof.commons", "commons-slf4j", "1.3.0")
