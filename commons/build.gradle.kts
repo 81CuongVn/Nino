@@ -80,7 +80,7 @@ dependencies {
     api("com.zaxxer:HikariCP:7.0.2")
 
     // SLF4J
-    api("org.slf4j:slf4j-api:2.0.17")
+    api("org.slf4j:slf4j-api:2.0.18")
 
     // Sentry
     api("io.sentry:sentry-kotlin-extensions:8.41.0")
