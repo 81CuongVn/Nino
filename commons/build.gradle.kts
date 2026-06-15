@@ -54,7 +54,7 @@ dependencies {
     api("org.apache.commons:commons-lang3:3.20.0")
 
     // Koin
-    api("io.insert-koin:koin-core:4.2.1")
+    api("io.insert-koin:koin-core:4.2.2")
 
     // Ktor (client)
     api("io.ktor:ktor-serialization-kotlinx-json")
