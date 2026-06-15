@@ -77,7 +77,7 @@ dependencies {
     api("org.postgresql:postgresql:42.7.11")
 
     // Connection pooling
-    api("com.zaxxer:HikariCP:7.0.2")
+    api("com.zaxxer:HikariCP:7.1.0")
 
     // SLF4J
     api("org.slf4j:slf4j-api:2.0.18")
