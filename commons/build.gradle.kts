@@ -51,7 +51,7 @@ dependencies {
     api("gay.floof.commons", "commons-slf4j", "1.3.0")
 
     // Apache Utilities
-    api("org.apache.commons:commons-lang3:3.20.0")
+    api("org.apache.commons:commons-lang3:3.21.0")
 
     // Koin
     api("io.insert-koin:koin-core:4.2.2")
